@@ -13,7 +13,7 @@ Instructions:-
 
 4. Run the Me_Bot.ipynb file and you can play with the bot at the bottom!
 
-NOTE - Actively seeking collaborators for fun side projects like this. If you're itnerested, please drop me a mail at smadan@mit.edu
+NOTE - Actively seeking collaborators for fun side projects like this. If you're itnerested, please drop me a mail at chris.tundebello@gmail.com
 
 ## For wechat user:
 Wechat chat history is save in SQLite Database, therefore you need to export from you Phone.
